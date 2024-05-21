@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  khulnasoft-k8s-scanner:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-04-21T16:25:26.232126+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 39f73566195f9073f21ec43247c1039f6c7fd7b236440655024be445fde712a6
+    name: khulnasoft-k8s-scanner
+    type: application
+    urls:
+    - khulnasoft-k8s-scanner-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-21T16:25:26.231395+05:30"
